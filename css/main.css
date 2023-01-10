@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
 }
+body{
+    background-color:#f2f2f2;
+}
 .top_navigation{
     height:2rem;
     background:#3e3e3e;
@@ -53,7 +56,8 @@
 
    }
    .main-section{
-       height:100vh;
+       height:auto;
+       padding-bottom:10%;
        
        
    }
@@ -66,7 +70,7 @@
    a{
     text-decoration: none;
    }
-   .main_paragraph p{
+   .main_paragraph{
     background-color:#f7f7f7;
     padding:2% 2%;
     border:6px solid white;
@@ -74,3 +78,119 @@
    .main_paragraph p{
        color:#6d6d6d;
    }
+   .bottom-header h2{
+       padding-top:5%;
+    font-family:'lato', sans-serif;
+    font-size:48px;
+    font-weight:bold;
+    color:#6d6d6d;
+    
+   }
+
+   .bottom-header p{
+ font-family:'lato', sans-serif;
+ font-size:17px;
+ font-weight:bold;
+ color:#6d6d6d;
+ 
+}
+.midder_section{
+    padding-bottom:7%;
+    height:auto;
+}
+.midder_section h2{
+    text-align:center;
+    padding-top:5%;
+    width:17%;
+    padding-bottom:1%;
+    border-bottom:4px solid #ec5242;
+    font-size:30px;
+    justify-content:center;
+    font-family:'lato', sans-serif;
+    color:#ffffff;
+}
+.cards-container{
+    display:flex;
+    justify-content:center;
+    gap:1% !important;
+}
+.cards{
+    display: flex;
+    margin-top:5%;
+    justify-content:center;
+    gap:0.5%;
+}
+.cards div{
+    background-color:#3d404783;  
+}
+.cards .col-2:hover{
+    border:2px solid white; 
+}
+.cards div p{
+    color:white;
+    text-align:center;
+    font-weight:500;
+    
+}
+.cards div h3{
+    color:#ec5242;
+    font-family: 'lato', sans-serif;
+    font-size:16px;
+    
+}
+.down_part{
+    display:flex;
+    justify-content:center;
+}
+.down_part{
+    margin-top:8%;
+}
+.down_part span a{
+    color:white;
+    text-decoration:underline;
+    font-size:18px;
+    font-family:'lato', sans-serif; 
+}
+.down_section{
+    height:auto;
+    padding-bottom:8%;
+}
+
+.down_section h2{
+    text-align:center;
+    padding-top:5%;
+    width:22%;
+    border-width:20%;
+    padding-bottom:1%;
+    border-bottom:4px solid #ec5242;
+    font-size:30px;
+    justify-content:center;
+    font-family:'lato', sans-serif;
+    color:#000000;
+}
+.speakers img{
+    width:100%;
+}
+.speakers_cards{
+    margin-top:5%;
+}
+.name{
+color:#000000;
+font-size:26px;
+font-weight:600;
+}
+.proffesionalism{
+    color:#fe523a;
+    font-size:26px;
+    font-weight:500;
+    font-family:'lato-italic', sans-serif;
+}
+.partners{
+height:40vh;
+}
+.footer-logo{
+    height:10vh;
+}
+.footer-logo img{
+    width:100%;
+}
