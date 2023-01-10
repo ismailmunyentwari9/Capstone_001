@@ -333,3 +333,26 @@ height:40vh;
 .footer_paragraph_gmail a {
     color: #fff;
 }
+
+@media screen and (max-width:768px){
+.lower_navigation,  .top_navigation {
+    display: none;
+}
+
+.hambuger-menu {
+    padding-top: 5%;
+}
+
+.hambuger-menu img {
+    width: 100%;
+
+}
+
+.desk-div {
+    display: none;
+}
+
+}
+
+
+
