@@ -452,10 +452,10 @@ height:auto;
 }
 .drop-down-menu{
     background:#6d6d6d;
-    transform: translate(-16%,0%);
     position: fixed;
     z-index:1;
     top:0;
+    left: 0;
      opacity:0.88;
     bottom:0;
     display:flex;
@@ -505,7 +505,7 @@ font-size:20px;
         left:0;
         bottom:0;
     }
-    /* abaut page responsiveness */
+    /* about page responsiveness */
     .about_header{
     font-size: 40px;
     color: #f44336;
@@ -513,6 +513,40 @@ font-size:20px;
     text-transform: uppercase;
     padding-top: 8%;
 }
+.about_middle_container h2{
+   text-align: center;
+   position: relative;
+   right: 25%;
+}
+.about_divider{
+    position: relative;
+    right: 10%;
+ }
+ .about_header_submit h2{
+    text-align: center;
+    position: relative;
+    right: 32%;
+ }
+
+ .submit_divider{
+    position: relative;
+    right: 18%;
+ }
+ .img-mobile{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+ }
+ .image-item{   
+    flex-direction: column;
+ }
+ .image-item img{
+    padding-top: 2%;
+ }
 
 }
 
