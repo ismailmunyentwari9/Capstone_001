@@ -319,9 +319,8 @@ height:auto;
     color: #fff;
     font-size: 20px;
     height: 20vh;
-    padding-top: 2%;
-    padding-bottom:3% ;
-   
+    padding-top: 4%;
+    padding-bottom:8% ; 
 
 }
 .footer-logo img{
@@ -361,6 +360,14 @@ height:auto;
 }
 .foot_home{
     display:block;
+}
+#hide_images{
+display:none;
+}
+.email_footer a{
+    text-decoration:none;
+    color:white;
+    
 }
 
 @media screen and (max-width:768px){
@@ -532,21 +539,27 @@ font-size:20px;
     position: relative;
     right: 18%;
  }
- .img-mobile{
-    display: flex;
-    flex-direction: column;
-    border: 1px solid red;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
+ 
+
+#hide_images{
+    display:block;
+    }
+    #show_images{
+        display:none;
+    }
+    .image-item{   
+     margin-top:2%;
+     }
+     .footer_paragraph_gmail a {
+        font-size:15px;
+        display:flex;
+    }
+    .email_footer a{
+        text-decoration:none;
+        color:white;
+        display:flex;        
+    }
     
- }
- .image-item{   
-    flex-direction: column;
- }
- .image-item img{
-    padding-top: 2%;
- }
 
 }
 
