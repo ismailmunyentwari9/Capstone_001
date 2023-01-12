@@ -2,7 +2,7 @@ const desktop_speakers=document.querySelector('.container.down_section');
 const division_speaker = ` <div class="row">
 <div class="col-12">
     <center>
-        <h2>Featured speakers</h2>
+        <h2>speakers</h2>
     </center>
 </div>
 </div>
@@ -15,13 +15,12 @@ const division_speaker = ` <div class="row">
         </div>
         <div class="col-8">
             <p>
-                <span class="name">yohai benkler</span>
+                <span class="name">Sara Belete</span>
                 <br>
                 <span class="proffesionalism">
-                    professor at Harvard Law School
+                Director Sales Operations EMEA @ Nutanix
                 </span>
-                <br> Focusing on a collaborative approach in a networked environment, he created the concept
-                of co-production based on sharing, such as open source software and Wikipedia.</p>
+                <br> Sarah Belete is a Sales Operations leader at Nutanix who partners with executives to focus on the company’s growth goals, go-to-market strategy framework, and implement business processes.</p>
         </div>
     </div>
 </div>
@@ -32,11 +31,10 @@ const division_speaker = ` <div class="row">
         </div>
         <div class="col-8">
             <p>
-                <span class="name">yohai benkler</span>
+                <span class="name">Mimi Omokri</span>
                 <br>
-                <span class="proffesionalism">professor at Harvard Law School</span>
-                <br> Focusing on a collaborative approach in a networked environment, he created the concept
-                of co-production based on sharing, such as open source software and Wikipedia.</p>
+                <span class="proffesionalism">Head of Business @ Uber</span>
+                <br> Mimi Omokri has a long and varied career, serving as an executive for numerous high-profile companies and currently, Uber’s Head of Business Development for Sub-Saharan Africa, one of the fast-growing regions for the company.</p>
         </div>
     </div>
 </div>
@@ -50,13 +48,12 @@ const division_speaker = ` <div class="row">
         </div>
         <div class="col-8">
             <p>
-                <span class="name">yohai benkler</span>
+                <span class="name">Prathna Singh</span>
                 <br>
                 <span class="proffesionalism">
-                    professor at Harvard Law School
+                Managing Director @ Accenture
                 </span>
-                <br> Focusing on a collaborative approach in a networked environment, he created the concept
-                of co-production based on sharing, such as open source software and Wikipedia.</p>
+                <br> Prathna Singh is a Managing Director at Accenture leading high performing teams that create new value for organisations in a highly disrupted and digital world. She has been at Accenture for 15 years and has worked across 4 continents partnering with clients.</p>
         </div>
     </div>
 </div>
@@ -67,11 +64,10 @@ const division_speaker = ` <div class="row">
         </div>
         <div class="col-8">
             <p>
-                <span class="name">yohai benkler</span>
+                <span class="name">Nadia Rintoul</span>
                 <br>
-                <span class="proffesionalism">professor at Harvard Law School</span>
-                <br> Focusing on a collaborative approach in a networked environment, he created the concept
-                of co-production based on sharing, such as open source software and Wikipedia.</p>
+                <span class="proffesionalism">Scrum Master R&D @ NTT</span>
+                <br> Nadia graduated from University of the Free State in 2008 earning a B.Com (Hons) in Strategic Management. After completing her degree, she decided to move to Johannesburg to begin her career in the FMCG industry.</p>
         </div>
     </div>
 </div>
@@ -86,13 +82,12 @@ const division_speaker = ` <div class="row">
         </div>
         <div class="col-8">
             <p>
-                <span class="name">yohai benkler</span>
+                <span class="name">Milisa Kentane</span>
                 <br>
                 <span class="proffesionalism">
-                    professor at Harvard Law School
+                Head of Communication @ SENTECH
                 </span>
-                <br> Focusing on a collaborative approach in a networked environment, he created the concept
-                of co-production based on sharing, such as open source software and Wikipedia.</p>
+                <br> Milisa is the Head of Communication and Media Spokesperson at SENTECH, has over 10 years’ management experience, and an Office Bearer on the Governing Body of an NPO. She is a member of the Institute of Directors Southern Africa (IODSA) </p>
         </div>
     </div>
 </div>
@@ -103,11 +98,10 @@ const division_speaker = ` <div class="row">
         </div>
         <div class="col-8">
             <p>
-                <span class="name">yohai benkler</span>
+                <span class="name">Maritza Curry</span>
                 <br>
-                <span class="proffesionalism">professor at Harvard Law School</span>
-                <br> Focusing on a collaborative approach in a networked environment, he created the concept
-                of co-production based on sharing, such as open source software and Wikipedia.</p>
+                <span class="proffesionalism">Head of Data @ RCS</span>
+                <br> Curry has been involved in Data Analytics since 2001, fulfilling a diversity of roles, including ETL development, front end development, BI project management, BI business analysis, dimensional modelling and Data Governance.</p>
         </div>
     </div>
 </div>
